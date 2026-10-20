@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ✈️ Aviation: Cargo Logistics Optimization for Airlines
 ### Distributed Big Data Architecture & Mathematical Optimization System
 
@@ -204,3 +205,6 @@ The pipeline includes an automated benchmarking harness (`src/scalability_test.p
 - **Complete & Error-Free**: Verified end-to-end execution of all 6 processing phases.
 - **Mathematical Rigor**: Formal MILP formulation using Google OR-Tools.
 - **Production Dashboard**: 7 interactive views built with glassmorphism CSS, interactive charts, and live filters.
+=======
+# BigData
+>>>>>>> 0fee66c6b61b554112a86713fa29bcb6c4ec9f64
