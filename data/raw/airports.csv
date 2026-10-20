@@ -1,0 +1,13 @@
+airport_code,airport_name,city,country,latitude,longitude,handling_capacity_tonnes_per_day,hub_type
+MAA,Chennai International,Chennai,India,12.99,80.17,1509,Primary Hub
+DEL,Indira Gandhi International,Delhi,India,28.55,77.09,251,Regional
+BOM,Chhatrapati Shivaji,Mumbai,India,19.09,72.87,763,Primary Hub
+BLR,Kempegowda International,Bangalore,India,13.19,77.7,657,Primary Hub
+HYD,Rajiv Gandhi International,Hyderabad,India,17.24,78.43,1708,Primary Hub
+CCU,Netaji Subhas Chandra,Kolkata,India,22.65,88.45,1585,Regional
+SIN,Changi Airport,Singapore,Singapore,1.36,103.99,1316,Primary Hub
+DXB,Dubai International,Dubai,UAE,25.25,55.36,1409,Secondary Hub
+LHR,Heathrow Airport,London,UK,51.47,-0.46,265,Primary Hub
+FRA,Frankfurt Airport,Frankfurt,Germany,50.03,8.57,391,Primary Hub
+BKK,Suvarnabhumi Airport,Bangkok,Thailand,13.69,100.75,676,Regional
+KUL,Kuala Lumpur International,Kuala Lumpur,Malaysia,2.74,101.7,1432,Primary Hub

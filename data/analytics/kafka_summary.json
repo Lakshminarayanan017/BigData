@@ -1,0 +1,15 @@
+{
+  "total_events": 500,
+  "delayed_flights": 91,
+  "cancelled_flights": 19,
+  "events_by_type": {
+    "FLIGHT_DELAYED": 104,
+    "FLIGHT_CANCELLED": 19,
+    "GATE_CHANGED": 51,
+    "CARGO_LOADED": 167,
+    "CARGO_OFFLOADED": 42,
+    "FLIGHT_DEPARTED": 73,
+    "FLIGHT_ARRIVED": 44
+  },
+  "avg_delay_minutes": 74.01098901098901
+}

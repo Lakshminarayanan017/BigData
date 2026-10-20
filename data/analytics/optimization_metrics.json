@@ -1,0 +1,11 @@
+{
+  "method": "OR-Tools MIP",
+  "solve_time_sec": 0.01,
+  "total_cost_usd": 11886835.23,
+  "n_allocated": 44,
+  "n_unallocated": 156,
+  "n_total": 200,
+  "allocation_rate": 22.0,
+  "avg_utilization_pct": 1.1640000000000001,
+  "generated_at": "2026-10-16T13:55:29.131720"
+}

@@ -1,0 +1,7 @@
+dataset_size,engine,processing_time_sec,throughput_rps,memory_mb,rows_processed,note
+10000,Pandas,0.5615,17808.1,6.36,9015.0,
+10000,PySpark,,,,,Spark not installed
+100000,Pandas,3.4871,28677.4,63.34,90247.0,
+100000,PySpark,,,,,Spark not installed
+500000,Pandas,18.0173,27751.1,316.98,451262.0,
+500000,PySpark,,,,,Spark not installed

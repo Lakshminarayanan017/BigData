@@ -1,0 +1,56 @@
+[
+  {
+    "dataset_size":10000,
+    "engine":"Pandas",
+    "processing_time_sec":0.5615,
+    "throughput_rps":17808.1,
+    "memory_mb":6.36,
+    "rows_processed":9015.0,
+    "note":null
+  },
+  {
+    "dataset_size":10000,
+    "engine":"PySpark",
+    "processing_time_sec":null,
+    "throughput_rps":null,
+    "memory_mb":null,
+    "rows_processed":null,
+    "note":"Spark not installed"
+  },
+  {
+    "dataset_size":100000,
+    "engine":"Pandas",
+    "processing_time_sec":3.4871,
+    "throughput_rps":28677.4,
+    "memory_mb":63.34,
+    "rows_processed":90247.0,
+    "note":null
+  },
+  {
+    "dataset_size":100000,
+    "engine":"PySpark",
+    "processing_time_sec":null,
+    "throughput_rps":null,
+    "memory_mb":null,
+    "rows_processed":null,
+    "note":"Spark not installed"
+  },
+  {
+    "dataset_size":500000,
+    "engine":"Pandas",
+    "processing_time_sec":18.0173,
+    "throughput_rps":27751.1,
+    "memory_mb":316.98,
+    "rows_processed":451262.0,
+    "note":null
+  },
+  {
+    "dataset_size":500000,
+    "engine":"PySpark",
+    "processing_time_sec":null,
+    "throughput_rps":null,
+    "memory_mb":null,
+    "rows_processed":null,
+    "note":"Spark not installed"
+  }
+]
